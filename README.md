@@ -47,6 +47,7 @@ This command ensures that all snippets are up-to-date and loaded into the active
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
 
-## Credits
+## Inspired
 
-This project is developed and maintained by Ryotaro "Justin" Kimura. Contributions are welcome to improve the functionality and scope of snippet management within the Denops ecosystem.
+This feature is inspired by a builtin function in [LuaSnip](https://github.com/L3MON4D3/LuaSnip?tab=readme-ov-file#add-snippets)
+
